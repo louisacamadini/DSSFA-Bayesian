@@ -1,2 +1,2 @@
 # DSSFA-Bayesian
-Decoupling Shrinkage and Selection in Gaussian Linear Factor Analysis
+Bayesian Statistics: Decoupling Shrinkage and Selection in Gaussian Linear Factor Analysis
